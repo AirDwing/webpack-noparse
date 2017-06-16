@@ -1,8 +1,8 @@
-Hash: 257f8b75dabbd9f49191
+Hash: 3ca748c760013a52ae9a
 Version: webpack 2.6.1
-Time: 2061ms
+Time: 1780ms
      Asset       Size  Chunks                    Chunk Names
- bundle.js    1.02 MB       0  [emitted]  [big]  main
+ bundle.js     838 kB       0  [emitted]  [big]  main
 index.html  212 bytes          [emitted]         
    [0] /Users/willin/.config/yarn/global/~/process/browser.js 5.42 kB {0} [built]
   [15] ../~/react/lib/ReactElement.js 11.2 kB {0} [built]
@@ -12,7 +12,7 @@ index.html  212 bytes          [emitted]
   [82] ./src/component/App.jsx 2.46 kB {0} [built]
   [83] ../~/react-dom/index.js 59 bytes {0} [built]
   [84] ./src/index.js 481 bytes {0} [built]
- [100] ../~/jquery/dist/jquery.js 268 kB {0} [built]
+ [100] ../~/jquery/dist/jquery.min.js 86.7 kB {0} [built]
  [116] ../~/react-dom/lib/ReactDOM.js 5.17 kB {0} [built]
  [176] ../~/react/lib/ReactDOMFactories.js 5.48 kB {0} [built]
  [178] ../~/react/lib/ReactPropTypes.js 500 bytes {0} [built]

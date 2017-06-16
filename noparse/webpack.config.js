@@ -7,6 +7,11 @@ module.exports = {
     path: path.join(__dirname, '/dist'),
     filename: 'bundle.js'
   },
+  resolve: {
+    alias: {
+      jquery: path.join(__dirname, '../node_modules/jquery/dist/jquery.min.js')
+    }
+  },
   module: {
     loaders: [
       { test: /\.js$/, loader: 'babel-loader', exclude: /node_modules/ },
